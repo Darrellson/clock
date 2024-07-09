@@ -1,0 +1,14 @@
+.digital-clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.digital-clock h1 {
+  color: #00ffff;
+  font-family: "Digital-7 Mono", monospace;
+  font-size: 5rem;
+  text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff;
+}
